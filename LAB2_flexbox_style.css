@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html :lang("en")>
+
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch
+    flex-end 
+}
+
+.flex-item {
+    background-color: rgb(162, 200, 240);
+    padding: 20px;
+    margin: 15px;
+    width: calc(30% - 25px);
+}
+
+.flex-item {
+    margin-bottom: 10px;
+}
+
+
